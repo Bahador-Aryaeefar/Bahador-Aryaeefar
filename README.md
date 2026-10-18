@@ -12,7 +12,6 @@ Full-stack product engineer in London. I've spent five years building production
 
 | Project | What it is | Built with |
 |---|---|---|
-| [Heritage](https://github.com/Bahador-Aryaeefar/Heritage) | Monorepo for a smart-tourism platform: QR signs at historic sites in Kermanshah open pages with text, images and audio, plus an admin CMS | Next.js, NestJS, Prisma, PostgreSQL, Zod |
 | [Smart-Meter](https://github.com/Bahador-Aryaeefar/Smart-Meter) | MSc project predicting London household energy use from smart meter, weather and calendar data | Python, pandas, scikit-learn, PyTorch |
 | [Instruction-Set-Simulator](https://github.com/Bahador-Aryaeefar/Instruction-Set-Simulator) | Web simulator for Morris Mano's Basic Computer with an editor, assembler and animated datapath (my BSc thesis) | Nuxt, Vue, Tailwind |
 | [IranCP](https://github.com/Bahador-Aryaeefar/IranCP) | Research competition platform for Kermanshah's Ministry of Education, with admin, expert and referee roles | Nuxt, Tailwind |
